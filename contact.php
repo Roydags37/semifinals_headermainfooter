@@ -29,5 +29,10 @@ Philippines, 7100
 </address>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.7530084015734!2d123.3475285652264!3d8.47308609156772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32549189d34cecdf%3A0xe383d904bb3fc748!2sRNB%20Cafe%20%26%20Computer%20Services!5e1!3m2!1sen!2sph!4v1733887943395!5m2!1sen!2sph" id="map-add" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+  <footer>
+  <p>Since 2015<br>
+  <a href="mailto:rnbcafe37@gmail.com">roydags37@gmail.com</a></p>
+  </footer>  
 </body>
 </html>
