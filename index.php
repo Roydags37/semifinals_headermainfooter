@@ -8,12 +8,12 @@
 
 <header >
             
-            <a href="index.php"><img src="suncool-logo.jpg" alt="suncool" id="logo"></a>
+            <a href="/"><img src="suncool-logo.jpg" alt="suncool" id="logo"></a>
             <p id="main-title">Sun Cool Internet Shop and Computer Services</p>
 <nav>
-<a href="index.php">Home</a> |
-<a href="about.php">About</a> |
-<a href="contact.php">Contact</a>
+<a href="/">Home</a> |
+<a href="/about.html">About</a> |
+<a href="/contact.html">Contact</a>
 </nav>
   </header><br><br>
 
